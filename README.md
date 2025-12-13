@@ -1,10 +1,14 @@
 ## Hi there 👋]
 
-Hi, I’m Drashti Patel 👋
+## Hi, I’m Drashti Patel 👋
+
 AI/ML Engineer & Software Developer
+
 Focused on building real-world intelligent systems using Computer Vision, Machine Learning, and scalable software engineering.
 I design and implement end-to-end AI solutions — from data preparation and model training to real-time inference, deployment, and system integration. My work is driven by practical use cases such as AI surveillance, smart city applications, and applied machine learning systems.
-About Me
+
+##About Me
+
 I am an AI/ML Engineer with hands-on experience in computer vision, intelligent systems, and software development. I have worked on projects involving YOLO-based object detection, multi-object tracking, and AI-powered monitoring systems, with a strong focus on reliability and real-time performance.
 Alongside AI, I have experience developing mobile and web applications, integrating APIs, managing databases, and supporting cloud and edge deployments. I prefer building systems that run in real environments rather than staying limited to experimental notebooks, and I enjoy solving problems where performance, accuracy, and scalability matter.
 Core Skills
