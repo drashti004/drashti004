@@ -10,7 +10,7 @@ I design and implement end-to-end AI solutions — from data preparation and mod
 I am an AI/ML Engineer with hands-on experience in computer vision, intelligent systems, and software development. I have worked on projects involving YOLO-based object detection, multi-object tracking, and AI-powered monitoring systems, with a strong focus on reliability and real-time performance.
 Alongside AI, I have experience developing mobile and web applications, integrating APIs, managing databases, and supporting cloud and edge deployments. I prefer building systems that run in real environments rather than staying limited to experimental notebooks, and I enjoy solving problems where performance, accuracy, and scalability matter.
 
-Core Skills
+## Core Skills
 
 AI & Machine Learning
 
@@ -32,7 +32,8 @@ Cloud Platforms: AWS, Google Cloud, Microsoft Azure
 Databases: MySQL, Firebase
 Deployment & Monitoring on cloud and edge devices
 Linux, Docker (basic)
-Featured Projects
+
+## Featured Projects
 
 🚦 AI-Based Red Light Violation Detection
 A real-time computer vision system to detect vehicles crossing traffic signals during red lights using CCTV footage.
@@ -58,14 +59,14 @@ Tech: Python, databases, system design
 Highlights: Real-time cart updates and automated billing workflows
 🔗 Repository: link coming soon
 
-What I’m Currently Working On
+## What I’m Currently Working On
 
 Advanced computer vision systems for surveillance and monitoring
 Face detection, tracking, and recognition optimized for real-time use
 LLM-based applications such as RAG chatbots and intelligent assistants
 Exploring autonomous navigation and robotics systems using AI
 
-Let’s Connect
+## Let’s Connect
 
 📧 Email: pdrashti1885@gmail.com
 💼 LinkedIn: www.linkedin.com/in/drashti-patel-149a99221
