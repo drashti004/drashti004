@@ -36,9 +36,13 @@ Linux, Docker (basic)
 ## Featured Projects
 
 🚦 AI-Based Red Light Violation Detection
+
 A real-time computer vision system to detect vehicles crossing traffic signals during red lights using CCTV footage.
+
 Tech: YOLO, DeepSORT, OpenCV, Python
+
 Highlights: Real-time tracking, reduced false positives, timestamped logging for enforcement
+
 🔗 Repository: link coming soon
 
 👤 Face Recognition Attendance System
